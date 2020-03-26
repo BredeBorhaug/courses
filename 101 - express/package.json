@@ -1,0 +1,19 @@
+{
+  "name": "101express",
+  "version": "1.0.0",
+  "description": "The code for the 101 - express course",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "brede@borhaug.io",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
