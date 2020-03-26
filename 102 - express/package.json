@@ -1,0 +1,19 @@
+{
+  "name": "102-express",
+  "version": "1.0.0",
+  "description": "The 102 express code",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "brede@borhaug.io",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
